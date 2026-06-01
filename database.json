@@ -1,0 +1,344 @@
+{
+  "version": "1.1",
+  "exportDate": "2026-06-01T16:05:27.951Z",
+  "inventory": [
+    {
+      "id": "inv-1",
+      "name": "Juliet Peach Garden Rose",
+      "type": "flower",
+      "costPerUnit": 4.5,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-2",
+      "name": "White Hydrangea",
+      "type": "flower",
+      "costPerUnit": 3.2,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-3",
+      "name": "Pink Ranunculus",
+      "type": "flower",
+      "costPerUnit": 2.1,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-4",
+      "name": "White Astilbe",
+      "type": "flower",
+      "costPerUnit": 1.8,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-5",
+      "name": "Eucalyptus (Silver Dollar)",
+      "type": "flower",
+      "costPerUnit": 1.5,
+      "unitName": "stem/branch"
+    },
+    {
+      "id": "inv-7",
+      "name": "Elegant Ceramic Vase (Medium)",
+      "type": "supply",
+      "costPerUnit": 8.5,
+      "unitName": "piece"
+    },
+    {
+      "id": "inv-8",
+      "name": "Floral Foam Block",
+      "type": "supply",
+      "costPerUnit": 1.2,
+      "unitName": "piece"
+    },
+    {
+      "id": "inv-1780328799879-336",
+      "name": "Delphinium Light Blue",
+      "type": "flower",
+      "costPerUnit": 2.8,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-830",
+      "name": "Sarah Bernhardt Peony",
+      "type": "flower",
+      "costPerUnit": 5.5,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-408",
+      "name": "Double Tulip (Blush Pink)",
+      "type": "flower",
+      "costPerUnit": 1.9,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-464",
+      "name": "Anemone (Panda White)",
+      "type": "flower",
+      "costPerUnit": 2.2,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-88",
+      "name": "Sweet Pea (Pastel Pink)",
+      "type": "flower",
+      "costPerUnit": 1.65,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-842",
+      "name": "Dahlia (Cafe au Lait)",
+      "type": "flower",
+      "costPerUnit": 4.8,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-124",
+      "name": "Lisianthus (Cream Champagne)",
+      "type": "flower",
+      "costPerUnit": 2.4,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-169",
+      "name": "Phalaenopsis Orchid (White)",
+      "type": "flower",
+      "costPerUnit": 12,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-925",
+      "name": "Carnation (Peach Honey)",
+      "type": "flower",
+      "costPerUnit": 0.95,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-678",
+      "name": "Spray Rose (Majolica White)",
+      "type": "flower",
+      "costPerUnit": 3,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-787",
+      "name": "Queen Anne's Lace",
+      "type": "flower",
+      "costPerUnit": 1.4,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-792",
+      "name": "Feverfew Chamomile",
+      "type": "flower",
+      "costPerUnit": 1.1,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-29",
+      "name": "Scabiosa (Lavender Blue)",
+      "type": "flower",
+      "costPerUnit": 1.75,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-712",
+      "name": "Eryngium Blue Thistle",
+      "type": "flower",
+      "costPerUnit": 1.85,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-505",
+      "name": "Limonium Purple Caspia",
+      "type": "flower",
+      "costPerUnit": 1.25,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-161",
+      "name": "Waxflower (White Pink)",
+      "type": "flower",
+      "costPerUnit": 1.6,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-631",
+      "name": "Eucalyptus (Baby Blue)",
+      "type": "flower",
+      "costPerUnit": 1.4,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-798",
+      "name": "Italian Ruscus",
+      "type": "flower",
+      "costPerUnit": 2,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-192",
+      "name": "Leatherleaf Fern",
+      "type": "flower",
+      "costPerUnit": 0.75,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-204",
+      "name": "Dusty Miller (Silver Dust)",
+      "type": "flower",
+      "costPerUnit": 1.1,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-612",
+      "name": "Salal / Lemon Leaf",
+      "type": "flower",
+      "costPerUnit": 1.2,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-780",
+      "name": "Asparagus Fern",
+      "type": "flower",
+      "costPerUnit": 1.3,
+      "unitName": "stem"
+    },
+    {
+      "id": "inv-1780328799879-785",
+      "name": "Glass Cylinder Vase (6-inch)",
+      "type": "supply",
+      "costPerUnit": 4,
+      "unitName": "piece"
+    },
+    {
+      "id": "inv-1780328799879-75",
+      "name": "Waterproof Tape & Wire Roll",
+      "type": "supply",
+      "costPerUnit": 0.5,
+      "unitName": "allocation"
+    },
+    {
+      "id": "inv-1780328799879-244",
+      "name": "Silk Ribbon (Warm Sand)",
+      "type": "supply",
+      "costPerUnit": 3,
+      "unitName": "piece"
+    },
+    {
+      "id": "inv-1780328799879-378",
+      "name": "Chicken Wire Roll",
+      "type": "supply",
+      "costPerUnit": 1.5,
+      "unitName": "allocation"
+    },
+    {
+      "id": "inv-1780328799879-189",
+      "name": "Gold Urn Decorative Vase",
+      "type": "supply",
+      "costPerUnit": 18,
+      "unitName": "piece"
+    }
+  ],
+  "arrangements": [
+    {
+      "id": "arr-1",
+      "name": "Garden Romance Centerpiece",
+      "clientName": "Sarah & David Wedding",
+      "date": "2026-06-20",
+      "notes": "Lush, garden-style centerpieces in ceramic bowls. Soft peach, white, and dusty blue color palette.",
+      "items": [
+        {
+          "itemId": "inv-1",
+          "quantity": 7
+        },
+        {
+          "itemId": "inv-2",
+          "quantity": 2
+        },
+        {
+          "itemId": "inv-3",
+          "quantity": 7
+        },
+        {
+          "itemId": "inv-4",
+          "quantity": 4
+        },
+        {
+          "itemId": "inv-5",
+          "quantity": 6
+        },
+        {
+          "itemId": "inv-7",
+          "quantity": 1
+        },
+        {
+          "itemId": "inv-8",
+          "quantity": 1
+        }
+      ],
+      "customItems": [
+        {
+          "name": "Specialty Blush Peony",
+          "costPerUnit": 6,
+          "quantity": 2,
+          "type": "flower"
+        }
+      ],
+      "laborType": "hourly",
+      "laborHours": 1.5,
+      "laborRate": 50,
+      "laborFlat": 0,
+      "markupFactor": 3,
+      "taxRate": 8.25
+    },
+    {
+      "id": "arr-1780323499345",
+      "name": "Test Arrangement",
+      "clientName": "Important Client",
+      "date": "2026-06-01",
+      "notes": "Custom style details and guidelines notes go here.",
+      "items": [
+        {
+          "itemId": "inv-1",
+          "quantity": 1
+        },
+        {
+          "itemId": "inv-2",
+          "quantity": 1
+        },
+        {
+          "itemId": "inv-3",
+          "quantity": 3
+        },
+        {
+          "itemId": "inv-5",
+          "quantity": 3
+        }
+      ],
+      "customItems": [],
+      "laborType": "flat",
+      "laborHours": 1,
+      "laborRate": 40,
+      "laborFlat": 50,
+      "markupFactor": 3,
+      "taxRate": 8.25
+    },
+    {
+      "id": "arr-1780329244126",
+      "name": "Untitled Recipe 3",
+      "clientName": "New Client",
+      "date": "2026-06-01",
+      "notes": "Custom style details and guidelines notes go here.",
+      "items": [],
+      "customItems": [],
+      "laborType": "flat",
+      "laborHours": 1,
+      "laborRate": 40,
+      "laborFlat": 50,
+      "markupFactor": 3,
+      "taxRate": 8.25
+    }
+  ]
+}
